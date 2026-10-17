@@ -22,7 +22,7 @@
 
 ## 👋 About me
 
-I'm a **third-year Information Technology student** at **DUT – University of Science and Technology – The University of Da Nang** (currently maintaining a **4.0/4.0 GPA**), passionate about **Software Engineering** and exploring **AI Applications** to build smarter, more impactful software solutions.
+I'm a **third-year Information Technology student** at **DUT – University of Science and Technology – The University of Da Nang** (currently maintaining a **4.0/4.0 GPA**), a member of **GDG on Campus - DUT**, passionate about **Software Engineering** and exploring **AI Applications** to build smarter, more impactful software solutions.
 
 For me, software engineering isn't just about writing code that works—it's about designing clean, scalable architectures and solving real user problems. With a strong foundation in algorithms and competitive programming, I enjoy tackling complex technical challenges—from optimizing database queries and asynchronous job processing to integrating intelligent AI workflows directly into web platforms.
 
@@ -33,6 +33,7 @@ Even though I'm still early in my career, I strive to write cleaner code and des
 - 💻 Currently focusing on **Backend & Fullstack Engineering** — designing modular architectures, scalable APIs, and responsive systems
 - 🤖 Exploring **Applied AI for Software** — integrating **LLM APIs, RAG, and AI Agents** into production backends to automate workflows and craft intelligent features
 - 🧩 **Algorithmic & System Problem Solving**: Combining a competitive programming mindset with practical system design (caching, background queues, real-time events)
+- 🌐 **Community**: Member of **GDG on Campus - DUT** — connecting with fellow tech enthusiasts, sharing knowledge, and participating in developer community events
 - ⚽ **Beyond the screen**: When I'm not coding or debugging, you'll probably find me playing **football** on the pitch or **singing** my favorite tunes 🎤⚽
 
 ---
@@ -129,9 +130,9 @@ Even though I'm still early in my career, I strive to write cleaner code and des
 - 🤖 **AI-Powered Software Solutions (LLM APIs, RAG & AI Agents)** — bridging software engineering and AI to build intelligent features, automated workflows, and smarter user experiences.
 - 🚀 **DevOps & CI/CD Pipelines** — streamlining containerization, automated testing, and reliable cloud deployments.
 
----
+<!-- --- -->
 
-## 🐍 My Contributions
+<!-- ## 🐍 My Contributions
 
 <p align="center">
   <picture>
@@ -139,7 +140,7 @@ Even though I'm still early in my career, I strive to write cleaner code and des
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaisrtia/Kaisrtia/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Kaisrtia/Kaisrtia/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</p>
+</p> -->
 
 ---
 
